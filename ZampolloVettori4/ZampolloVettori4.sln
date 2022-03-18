@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZampolloVettori4", "ZampolloVettori4\ZampolloVettori4.csproj", "{835DA9AD-DA96-4677-8827-2B0E17A72CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835DA9AD-DA96-4677-8827-2B0E17A72CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835DA9AD-DA96-4677-8827-2B0E17A72CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835DA9AD-DA96-4677-8827-2B0E17A72CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835DA9AD-DA96-4677-8827-2B0E17A72CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E5640E7-3786-4F6F-9119-9BE3EE92E2DF}
+	EndGlobalSection
+EndGlobal

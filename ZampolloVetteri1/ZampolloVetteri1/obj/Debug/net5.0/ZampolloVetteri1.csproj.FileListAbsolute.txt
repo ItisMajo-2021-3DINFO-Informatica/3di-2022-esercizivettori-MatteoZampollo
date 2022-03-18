@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\bin\Debug\net5.0\ZampolloVetteri1.exe
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\bin\Debug\net5.0\ZampolloVetteri1.deps.json
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\bin\Debug\net5.0\ZampolloVetteri1.runtimeconfig.json
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\bin\Debug\net5.0\ZampolloVetteri1.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\bin\Debug\net5.0\ZampolloVetteri1.dll
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\bin\Debug\net5.0\ref\ZampolloVetteri1.dll
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\bin\Debug\net5.0\ZampolloVetteri1.pdb
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ZampolloVetteri1.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ZampolloVetteri1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ZampolloVetteri1.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ZampolloVetteri1.AssemblyInfo.cs
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ZampolloVetteri1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ZampolloVetteri1.dll
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ref\ZampolloVetteri1.dll
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ZampolloVetteri1.pdb
+C:\Users\Utente\Desktop\ZampolloVetteri1\ZampolloVetteri1\obj\Debug\net5.0\ZampolloVetteri1.genruntimeconfig.cache
