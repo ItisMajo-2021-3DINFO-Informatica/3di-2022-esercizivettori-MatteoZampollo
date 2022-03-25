@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\bin\Debug\net5.0\ZampolloVettori3.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\bin\Debug\net5.0\ZampolloVettori3.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\bin\Debug\net5.0\ZampolloVettori3.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\bin\Debug\net5.0\ZampolloVettori3.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\bin\Debug\net5.0\ZampolloVettori3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\bin\Debug\net5.0\ref\ZampolloVettori3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\bin\Debug\net5.0\ZampolloVettori3.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ZampolloVettori3.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ZampolloVettori3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ZampolloVettori3.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ZampolloVettori3.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ZampolloVettori3.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ZampolloVettori3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ref\ZampolloVettori3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ZampolloVettori3.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloVettori3\ZampolloVettori3\obj\Debug\net5.0\ZampolloVettori3.genruntimeconfig.cache

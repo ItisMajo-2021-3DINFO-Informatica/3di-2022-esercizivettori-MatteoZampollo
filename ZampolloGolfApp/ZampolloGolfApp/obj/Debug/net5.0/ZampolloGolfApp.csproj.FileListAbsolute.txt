@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\bin\Debug\net5.0\ZampolloGolfApp.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\bin\Debug\net5.0\ZampolloGolfApp.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\bin\Debug\net5.0\ZampolloGolfApp.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\bin\Debug\net5.0\ZampolloGolfApp.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\bin\Debug\net5.0\ZampolloGolfApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\bin\Debug\net5.0\ref\ZampolloGolfApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\bin\Debug\net5.0\ZampolloGolfApp.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ZampolloGolfApp.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ZampolloGolfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ZampolloGolfApp.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ZampolloGolfApp.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ZampolloGolfApp.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ZampolloGolfApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ref\ZampolloGolfApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ZampolloGolfApp.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloGolfApp\ZampolloGolfApp\obj\Debug\net5.0\ZampolloGolfApp.genruntimeconfig.cache

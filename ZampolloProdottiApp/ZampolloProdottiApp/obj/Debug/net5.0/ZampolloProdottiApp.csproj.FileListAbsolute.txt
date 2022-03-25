@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\bin\Debug\net5.0\ZampolloProdottiApp.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\bin\Debug\net5.0\ZampolloProdottiApp.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\bin\Debug\net5.0\ZampolloProdottiApp.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\bin\Debug\net5.0\ZampolloProdottiApp.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\bin\Debug\net5.0\ZampolloProdottiApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\bin\Debug\net5.0\ref\ZampolloProdottiApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\bin\Debug\net5.0\ZampolloProdottiApp.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ZampolloProdottiApp.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ZampolloProdottiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ZampolloProdottiApp.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ZampolloProdottiApp.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ZampolloProdottiApp.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ZampolloProdottiApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ref\ZampolloProdottiApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ZampolloProdottiApp.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MatteoZampollo\ZampolloProdottiApp\ZampolloProdottiApp\obj\Debug\net5.0\ZampolloProdottiApp.genruntimeconfig.cache

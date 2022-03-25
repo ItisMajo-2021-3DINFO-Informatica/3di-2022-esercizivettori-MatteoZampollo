@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ZampolloProdottiApp/1.0.0": {
+        "runtime": {
+          "ZampolloProdottiApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZampolloProdottiApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
